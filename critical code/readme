@@ -1,0 +1,5 @@
+1. The "preprocessing" folder contains scripts for adding features to the dataset. Run "step1" first, then "step2".
+
+2. The "model TDM" and "model Semi" folders contain training scripts for classification models to identify luminescent
+materials and semiconductors. Suffix "_all" indicates models trained on all features, while "_cleaned" indicates models
+trained on filtered features (the final models used).
